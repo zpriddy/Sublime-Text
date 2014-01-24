@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Alternative Autocompletion",
+		"BracketHighlighter",
+		"CUDA C++",
+		"Package Control",
+		"Rails Developer Snippets",
+		"Rails Migrations List",
+		"RailsCasts Colour Scheme",
+		"Ruby on Rails snippets",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
