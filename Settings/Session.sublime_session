@@ -12,10 +12,10 @@
 		"/home/ser/zpriddy/rails_projects/printer_supplies/app/views",
 		"/home/ser/zpriddy/Desktop"
 	],
-	"last_window_id": 13,
+	"last_window_id": 14,
 	"settings":
 	{
-		"new_window_height": 1330.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -240,7 +240,7 @@
 			"side_bar_width": 239.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1207.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -446,7 +446,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,0,0,0,0,0,24,1207,1354,5120,1440",
+			"position": "0,0,0,0,0,67,57,1274,1387,5120,1440",
 			"replace":
 			{
 				"height": 0.0
